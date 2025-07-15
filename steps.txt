@@ -1,0 +1,17 @@
+Side effects
+- what is a sideeffect in react?
+ => 
+UseEffect
+ 
+API
+- CRUD
+
+- How to setup a controlled form?
+ 1. Set up the state.
+ 2. Link input values to the state.
+
+
+
+// Request-response cycle
+
+Post request to the url
