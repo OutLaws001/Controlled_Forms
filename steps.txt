@@ -10,8 +10,11 @@ API
  1. Set up the state.
  2. Link input values to the state.
 
-
-
 // Request-response cycle
 
-Post request to the url
+Setting up a json server
+- Create a db folder
+- Inside the folder create a db.json file
+- Install json-server (npm install json-server)
+- Run the server on a different terminal and a different port 
+   npx json-server db.json --port 2345
